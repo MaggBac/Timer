@@ -1,1 +1,2 @@
-# Timer in JS -> countdown to an important event
+# Timer in JS
+Countdown to an important event
